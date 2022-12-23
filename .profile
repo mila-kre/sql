@@ -1,0 +1,1 @@
+export DB_URL=postgres://mila_kre_user:eSYmplg5ZFltRaLY3EUPtfudVskwLzrH@dpg-ceit7a2rrk0a7i0k03rg-a.oregon-postgres.render.com/mila_kre
